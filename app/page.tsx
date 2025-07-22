@@ -119,7 +119,7 @@ export default function Home() {
               className="w-full"
             >
               <Upload className="mr-2" size={16} />
-              Upload CSV File
+              Upload CSV ファイル
             </Button>
             
             {uploadedFile && (
